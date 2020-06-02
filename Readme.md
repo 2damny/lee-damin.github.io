@@ -7,4 +7,4 @@
  
  ### 2주차 과제 (2020.06.02)
  --------
-
+* [파이썬과 인공지능 기초수학](https://github.com/2damny/lee-damin.github.io/blob/master/2%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C.ipynb)
